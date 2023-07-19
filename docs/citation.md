@@ -19,6 +19,12 @@ If you have used **Quantivine** in research projects, products, academic papers,
                Wei Chen},
   title     = {Quantivine: A Visualization Approach for Large-scale Quantum Circuit Representation and Analysis},
   year      = {2023},
-  doi       = {},
+  journal      = {CoRR},
+  volume       = {abs/2307.08969},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2307.08969},
+  doi          = {10.48550/arXiv.2307.08969},
+  eprinttype    = {arXiv},
+  eprint       = {2307.08969},
 }
 ```
